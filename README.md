@@ -2,7 +2,7 @@ Simulating Airline Overbooking
 ================
 
 I have just read an interesting
-[article](https://simonensemble.github.io/operations%20research/2018/07/24/airline-overbooking/?fbclid=IwAR0BRQy1hd2dmoxT_EJPpXZWlQYCiCKr_fjQ7NFhQHVf5Gvt0NMnQzOXh3g)
+[article](https://www.cbc.ca/news/business/airline-passengers-bumping-overbooking-united-1.4065603)
 about how flights are overbooked to maximize profit. Airlines have to
 maximize profit when striking the balance between oversold tickets and
 compensation to passengers who may have to give up seats due to
