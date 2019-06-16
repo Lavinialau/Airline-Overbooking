@@ -61,7 +61,6 @@ generate.showup <- function(oversold, prob_showup) {
 
 ```
 
-
 Then for each ticket oversold, we can write another function to simulate the total profit an airline makes for each flight (i.e. revenue made - compensation cost). The function will automatically run 1,000 times to find the revenue distribution for each scenario. By charting the tickets oversold against profit, the optimal number of oversold tickets can be found.
 
 ```{r}
@@ -112,6 +111,8 @@ for (oversold in 0:oversold_max) {
 
 ```
 
+
+## Answer
 
 Then plot a boxplot diagram to observe the revenue distribution for each oversold ticket based on minimum, first quartile, median, third quartile and maximum. You can see the <b>profit is maximized when 5 to 8 tickets are oversold</b>. You can also adjust the parameters freely in the R code for different flight size, ticket price and compensation cost.
 

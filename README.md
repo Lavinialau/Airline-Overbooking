@@ -116,6 +116,8 @@ for (oversold in 0:oversold_max) {
 }
 ```
 
+## Answer
+
 Then plot a boxplot diagram to observe the revenue distribution for each
 oversold ticket based on minimum, first quartile, median, third quartile
 and maximum. You can see the <b>profit is maximized when 5 to 8 tickets
