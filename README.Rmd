@@ -115,7 +115,7 @@ for (oversold in 0:oversold_max) {
 
 Then plot a boxplot diagram to observe the revenue distribution for each oversold ticket based on minimum, first quartile, median, third quartile and maximum. You can see the <b>profit is maximized when 5 to 8 tickets are oversold</b>. You can also adjust the parameters freely in the R code for different flight size, ticket price and compensation cost.
 
-![boxplot](https://github.com/Lavinialau/Airline-Overbooking/blob/master/image/Rplot.png)
+![boxplot](image/Rplot.png)
 
 
 All these (15 scenarios x 1,000 simulation) can be run in just 10 seconds! You can appreciate how handy Monte Carlo simulation can be.
