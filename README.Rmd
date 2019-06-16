@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I have just read an interesting [article](https://simonensemble.github.io/operations%20research/2018/07/24/airline-overbooking/?fbclid=IwAR0BRQy1hd2dmoxT_EJPpXZWlQYCiCKr_fjQ7NFhQHVf5Gvt0NMnQzOXh3g) about how flights are overbooked to maximize profit. Airlines have to maximize profit when striking the balance between oversold tickets and compensation to passengers who may have to give up seats due to overbooking. To find the optimal number of oversold tickets, I have written a set of R code to simulate different scenarios.
+I have just read an interesting [article](https://www.cbc.ca/news/business/airline-passengers-bumping-overbooking-united-1.4065603) about how flights are overbooked to maximize profit. Airlines have to maximize profit when striking the balance between oversold tickets and compensation to passengers who may have to give up seats due to overbooking. To find the optimal number of oversold tickets, I have written a set of R code to simulate different scenarios.
 
 ## Scenario
 
